@@ -20,4 +20,8 @@ pip install rich
 
 git clone https://github.com/NATIONVK/Nation.04.py.git
 
-cd 
+
+cd Nation.04.py
+
+
+python3 Nation005.py
