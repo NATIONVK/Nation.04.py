@@ -18,4 +18,6 @@ pip install bs4
 pip install rich
 
 
-git clone 
+git clone https://github.com/NATIONVK/Nation.04.py.git
+
+cd 
